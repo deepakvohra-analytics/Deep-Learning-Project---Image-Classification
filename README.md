@@ -1,4 +1,4 @@
-# Image-Classification-Deep-Learning-
+# Image-Classification-Deep-Learning
 Implemented ***Convolutional Neural Network*** with ***Keras*** for image classification of dogs vs cats (Kaggle Cats &amp; Dogs dataset)
 
 I used Kaggle API to directly load the train and test images and I created the notebook in Google Colab to make use of the GPU that they offered.
